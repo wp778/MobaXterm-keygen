@@ -9,7 +9,7 @@ Please see source code. It is not complex.
 ```
 Usage:
     MobaXterm-Keygen.py <UserName> <Version>
-
+    python3 MobaXterm-Keygen.py wp-thinkbook 24.1
     <UserName>:      The Name licensed to
     <Version>:       The Version of MobaXterm
                      Example:    10.9
